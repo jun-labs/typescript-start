@@ -1,0 +1,11 @@
+// https://www.typescriptlang.org/tsconfig
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noImplicitAny": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
