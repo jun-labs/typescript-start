@@ -8,7 +8,8 @@
 <div align="center">
 
 [![Release](https://img.shields.io/badge/-📝%20wiki%20-blue)]()
-[![Release](https://img.shields.io/badge/-%F0%9F%93%9A%20typescript%20docs-brightgreen)](https://www.typescriptlang.org/docs/)
+[![Release](https://img.shields.io/badge/-%F0%9F%93%9A%20typescript%20docs-brightgreen)](https://www.typescriptlang.org/docs/) <br/>
+[![Release](https://img.shields.io/badge/-%F0%9F%93%9A%20typescript%20deep%20dive-yellow)](https://basarat.gitbook.io/typescript/)
 </div>
 
 <br/>
